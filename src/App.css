@@ -37,4 +37,72 @@
   }
 }
 
+.div1 {
+  border-radius: 5px;
+  background-color: #d1e0e0;
+  border-style: solid;
+  border-color: black;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  
+}
+
+.div1 h1{
+  text-align: center;
+}
+
+.div1 input[type="text"],
+.div1 input[type="password"],
+.div1 input[type="email"],
+.div1 select {
+  display: block;
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-left: 100px;
+}
+
+.div1 label{
+  display: block;
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-left: 100px;
+}
+
+.div1 select {
+  display: block;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin-left: 100px;
+}
+
+.div1 button{
+  font-size: large;
+  font-weight: bold;
+  width: 100%;
+  background-color: #4BD833;
+  color: black;
+  padding: 14px 19px;
+  margin: 8px 0px;
+  border-radius: 3px;
+  border-style: solid;
+  border-color: black;
+}
+
+.div1 button{
+  background-color: #45a049;
+}
+
+
+
 
